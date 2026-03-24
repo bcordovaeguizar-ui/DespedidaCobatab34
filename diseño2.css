@@ -1,0 +1,47 @@
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(105, 105, 255);
+}
+
+header {
+    background: rgb(255, 98, 171);
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+nav {
+    background: #ff74df;
+    padding: 10px;
+    text-align: center;
+}
+
+nav a {
+    color: white;
+    margin:0 10px;
+    text-decoration: none;
+}
+
+section {
+    padding: 20px;
+}
+
+article {
+    border: 3px solid rgb(134, 134, 255);
+    margin: 20px;
+    padding: 20px;
+    background-color: rgb(71, 95, 255);
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+th {
+    background-color: rgb(0, 26, 255);
+    color: white;
+    padding: 10px;
+}
